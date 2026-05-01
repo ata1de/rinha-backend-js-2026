@@ -1,0 +1,12 @@
+{
+  "name": "rinha-backend-2026",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node --max-old-space-size=120 src/server.js"
+  },
+  "dependencies": {
+    "fastify": "^5.3.3",
+    "k6": "^0.0.0"
+  }
+}
